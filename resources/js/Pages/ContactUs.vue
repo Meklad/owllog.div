@@ -2,8 +2,10 @@
     <div>
         <h1>
             Contact Us Page
-            <inertia-link href="/hello">Go to Hello page</inertia-link>
         </h1>
+        <inertia-link href="/hello">Go to Hello page</inertia-link>
+        <br>
+        <inertia-link href="/messages">Go to Messages page</inertia-link>
     </div>
 </template>
 
